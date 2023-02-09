@@ -49,7 +49,7 @@ body{
     margin-top: 60px;
 }
  .main-section-left{
-    margin-left:50px;
+    margin-left:10px;
     padding: auto;
     justify-content:left;
 } 
@@ -96,6 +96,7 @@ body{
 .main-section-left img{
     width:35px;
     height:30px;
+    margin-top:40px;
     border-radius: 50px;
     margin-right:-20px;
     }
