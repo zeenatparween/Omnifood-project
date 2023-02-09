@@ -24,7 +24,7 @@ body{
 .navbar img{
     width:100px;
     height:20px;
-  margin-right: 60px;
+  
     }
 .navbar ul{
     display: flex;
@@ -44,13 +44,14 @@ body{
 }
 .main-section{
     display: flex;
-     align-items: center;
-     justify-content:space-around;
-     margin-top: 20px;
+    align-items: center;
+    justify-content:space-around;
+    margin-top: 20px;
 }
  .main-section-left{
     margin: auto;
     padding: auto;
+    justify-content:left;
 } 
 .main-section-left h1{
     font-size:33px;
@@ -100,7 +101,7 @@ body{
     }
     .main-section-right{
         align-items: center;
-        margin:15px 10px 10px 15px;
+        margin:auto;
  }
 .main-section-right img{
     width:300px;
