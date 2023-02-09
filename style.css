@@ -50,6 +50,7 @@ body{
 }
  .main-section-left{
     margin-top:40px;
+    margin-left:20px;
     padding: auto;
     justify-content:left;
 } 
